@@ -1,0 +1,6 @@
+* {
+	font:							"Ubuntu Regular 18";
+    show-icons:                     true;
+	icon-theme: 					"Papirus";
+    background-color:               #1c1c1c;
+}
